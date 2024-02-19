@@ -1,0 +1,107 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+.about {
+  width: 100%;
+  padding: 78px 0px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.about img {
+  height: auto;
+  width: 420px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.main {
+  display: flex;
+}
+.about-text {
+  width: 420px;
+  text-align: center;
+  margin-top: 10px;
+  margin-left: 60px;
+}
+
+.about-text h1 {
+  color: rgb(0, 0, 0);
+  font-size: 37px;
+  text-transform: capitalize;
+  margin-bottom: 40px;
+  margin-top: 70px;
+  margin-right: 200px;
+}
+
+.about-text h5 {
+  color: goldenrod;
+  font-size: 30px;
+  text-transform: capitalize;
+  margin-bottom: 5px;
+  letter-spacing: 1px;
+  margin-right: 200px;
+}
+
+.about-text h5 span {
+  color: goldenrod;
+}
+
+.about-text p {
+  color: black;
+  padding-bottom: 15px;
+  font-size: 16px;
+}
+
+.about h1 span {
+  color: darkred;
+}
+.aboutw h1 span {
+  color: darkred;
+}
+
+.title h1 {
+  text-align: center;
+  font-weight: bold;
+  font-size: 40px;
+  text-transform: capitalize;
+  margin: 10px;
+  padding-top: 5px;
+  margin: 50px;
+}
+
+.map-marker-icon {
+  color: rgba(0, 0, 0, 0.42);
+  font-size: 30px;
+  margin-left: 10px;
+}
+.logo {
+  display: flex;
+}
+.logo p {
+  color: black;
+  padding-left: 15px;
+  padding-top: 5px;
+}
+
+.phone-icon {
+  color: rgba(0, 0, 0, 0.42);
+  font-size: 30px;
+  margin-left: 12px;
+  margin-top: 70px;
+}
+.logo {
+  display: flex;
+}
+.logo p {
+  color: black;
+  margin-right: -320px;
+}
+.logo .to {
+  margin-top: 70px;
+}
